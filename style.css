@@ -1,0 +1,293 @@
+#navbar{
+    background-color: white;
+}
+
+.navbar-brand,.mIN{
+    font-family: 'Taviraj SemiBold';
+    font-size: 17px;
+}
+
+#logo{
+    height: 60px;
+    width: 60px;
+}
+
+#navigation{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-nav{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.titleh1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lead{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+}
+
+.btn-dark, .btn-outline-dark{
+    border-radius: 50px;
+    padding: 15px 40px;
+    margin-top: 20px;
+}
+
+.banner{
+    margin-right: 150px;
+    margin-left: 280px;
+    margin-top: -60px;
+}
+
+#title{
+    background-image: url(./images/Brown\ Aesthetic\ New\ Arrival\ Skincare\ Banner\ Landscape\ \(1\).png);
+    background-size: cover;
+    background-position: center;
+    height: 720px;
+    margin-top: 50px;
+}
+
+#information{
+    background-color: #fff0ce;
+    margin-bottom: -22.5px;
+}
+
+.info{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+}
+
+.infobanner{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.info2{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+#products{
+    background-color: #1F5351;
+}
+
+#productsh2{
+    font-family: 'Helvetica Neue';
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 100px;
+    color: #FFFFFF;
+}
+
+#navbarNav .nav-item a{
+    color: white;
+    font-weight: 300;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    margin-top: 100px;
+}
+
+.p{
+    margin-left: 185px;
+    margin-top: 40px;
+}
+
+.card-body>p{
+    color: white;
+    text-align: center;
+    margin-left: -50px;
+}
+
+.card-spec{
+    height: 220px;
+    width: 240px;
+}
+
+.d-flex{
+    gap: 20px;
+}
+
+.card{
+    background-color: #1F5351; 
+    border: none;
+}
+
+.navbar-nav{
+    border-bottom: 0.8px solid white;
+    display: center;
+    gap: 65px;
+    margin-left: 20px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+.prod{
+    color: #FFFFFF; 
+    margin-left: 100px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+}
+
+#movingtext{
+    font-size: 30px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color: #FFD370;
+    color: black;
+    font-weight: 500;
+    padding: 2px 0px 2px 0px;
+}
+
+#features{
+    background-color: #F2ECDC;
+}
+
+#features>h3{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    padding-left: 220px;
+    padding-top: 100px;
+}
+
+.f{
+    background-color: #DAD0AD;
+    border-radius: 20px;
+    padding:  25px 30px;
+}
+
+.f1{
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+}
+
+.f2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+#featured-1-3>h3,p{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+} 
+
+#certificates{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    height: 120px;
+    gap: 70px;
+    border-bottom: 1px solid black;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 60px;
+}
+
+#articlesh2{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+    font-weight: 100; 
+    margin-top: 35px;
+}
+
+#featured-articles{
+    margin-left: 180px;
+}
+
+#feat1{
+    background-color: #4C4638;
+}
+
+#feat2{
+    background-color: #F99352;
+}
+
+#feat3{
+    background-color: #DBD0AF;
+}
+
+.art{
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+    width: 350px;
+    z-index: 1;
+}
+
+.art2{
+    background-color: white;
+    margin-left: 45px;
+    margin-right: 45px;
+    border-radius: 20px;
+    margin-top: 70px;
+    margin-bottom: -70px;
+    padding: 30px;
+    z-index: 1;
+    width: 350px;
+}
+
+#footer{
+    background-color: #1F5351;
+    margin-top: -200px;
+    padding-top: 300px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: -50px;
+}
+
+#footh3{
+    font-family: 'Taviraj SemiBold';
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.footlogo{
+    width: 350px;
+}
+
+.btn-dark2{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.btn-dark:hover{
+    background-color: white;
+    color: black;
+}
+
+#socials{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.foot{
+    margin-left: 150px;
+    color: white;
+}
+
+.foot2{
+    margin-left: 380px;
+}
